@@ -1,0 +1,3 @@
+[submodule "amba_protocol"]
+	path = amba_protocol
+	url = https://github.com/Mohsannaeem/amba_protocol.git
